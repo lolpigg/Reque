@@ -19,13 +19,15 @@ namespace NidzhatUP
     /// </summary>
     public partial class ClientWindow : Window
     {
-        public ClientWindow()
+        int id;
+        public ClientWindow(int client_id)
         {
             InitializeComponent();
             ClientsReqPage clientsReqPage = new ClientsReqPage();
             clientsReqPage.Change.Visibility = Visibility.Collapsed;
             clientsReqPage.Delete.Visibility = Visibility.Collapsed;
             Frame.Content = clientsReqPage;
+            id = client_id;
         }
 
         private void Client_Click(object sender, RoutedEventArgs e)
@@ -38,7 +40,7 @@ namespace NidzhatUP
 
         private void History_Click(object sender, RoutedEventArgs e)
         {
-            HistoryPage historyPage = new HistoryPage();
+            HistoryPage historyPage = new HistoryPage(id);
             Frame.Content = historyPage;
         }
     }

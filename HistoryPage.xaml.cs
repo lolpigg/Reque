@@ -22,10 +22,10 @@ namespace NidzhatUP
     public partial class HistoryPage : Page
     {
         request_historyTableAdapter requestHistoryTableAdapter = new request_historyTableAdapter();
-        public HistoryPage()
+        public HistoryPage(int id)
         {
             InitializeComponent();
-            Table.ItemsSource = requestHistoryTableAdapter.GetData();
+            Table.ItemsSource = requestHistoryTableAdapter.GetDataBy1(id);
         }
     }
 }

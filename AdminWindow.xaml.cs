@@ -19,16 +19,18 @@ namespace NidzhatUP
     /// </summary>
     public partial class AdminWindow : Window
     {
-        public AdminWindow()
+        int id;
+        public AdminWindow(int admin_id)
         {
             InitializeComponent();
             ClientsReqPage clientsReqPage = new ClientsReqPage();
             Frame.Content = clientsReqPage;
+            id = admin_id;
         }
 
         private void History_Click(object sender, RoutedEventArgs e)
         {
-            HistoryPage historyPage = new HistoryPage();
+            HistoryPage historyPage = new HistoryPage(id);
             Frame.Content = historyPage;
         }
 

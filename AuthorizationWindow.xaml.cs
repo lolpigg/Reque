@@ -41,7 +41,7 @@ namespace NidzhatUP
                     switch (AllLogins[i][3])
                     {
                         case 1:
-                            AdminWindow adminWindow = new AdminWindow();
+                            AdminWindow adminWindow = new AdminWindow(Convert.ToInt32(AllLogins[i][0]));
                             adminWindow.Show();
                             Close();
                             break;
@@ -51,7 +51,7 @@ namespace NidzhatUP
                             Close();
                             break;
                         case 3:
-                            ClientWindow clientWindow = new ClientWindow();
+                            ClientWindow clientWindow = new ClientWindow(Convert.ToInt32(AllLogins[i][0]));
                             clientWindow.Show();
                             Close();
                             break;
