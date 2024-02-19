@@ -1,0 +1,25 @@
+﻿<Window x:Class="NidzhatUP.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:NidzhatUP"
+        mc:Ignorable="d"
+        Title="ClientWindow" Height="450" Width="800" Background="#715EE5">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Frame x:Name="Frame" Grid.Row="1" Grid.ColumnSpan="4" NavigationUIVisibility = "Hidden"></Frame>
+        <Border Grid.ColumnSpan="4" Background="#5012FF"></Border>
+        <Button x:Name="Client" Grid.Column="1" Style="{DynamicResource BorderButtonStyle}" Content="Клиентские запросы" FontWeight="Bold" Margin="7" Click="Client_Click"></Button>
+        <Button x:Name="History" Grid.Column="2" Style="{DynamicResource BorderButtonStyle}" Content="История запросов" FontWeight="Bold" Margin="7" Click="History_Click"></Button>
+    </Grid>
+</Window>
