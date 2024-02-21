@@ -21,11 +21,18 @@ namespace NidzhatUP
     public partial class RegistrationWindow : Window
     {
         usersTableAdapter usersTableAdapter = new usersTableAdapter();
+        /// <summary>
+        /// Обычный конструктор окна
+        /// </summary>
         public RegistrationWindow()
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Регистрирует нового пользователя в БД с ролью Клиент, используя данные из введенных полей, после чего открывает окно авторизации.
+        /// </summary>        
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Reg_Click(object sender, RoutedEventArgs e)
         {
             string login = Login.Text;

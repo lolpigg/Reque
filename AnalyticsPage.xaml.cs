@@ -16,12 +16,12 @@ using NidzhatUP.nidzhatDataSetTableAdapters;
 
 namespace NidzhatUP
 {
-    /// <summary>
-    /// Логика взаимодействия для AnalyticsPage.xaml
-    /// </summary>
     public partial class AnalyticsPage : Page
     {
         client_requestTableAdapter clientRequestTableAdapter = new client_requestTableAdapter();
+        /// <summary>
+        /// Заполняет таблицу данными из БД, и устанаваливает надписи текстовым полям.
+        /// </summary>
         public AnalyticsPage()
         {
             InitializeComponent();

@@ -22,6 +22,10 @@ namespace NidzhatUP
     public partial class HistoryPage : Page
     {
         request_historyTableAdapter requestHistoryTableAdapter = new request_historyTableAdapter();
+        /// <summary>
+        /// Конструктор, получающий данные из БД и устанавливающий их отображение в таблице.
+        /// </summary>
+        /// <param name="id"></param>
         public HistoryPage(int id)
         {
             InitializeComponent();

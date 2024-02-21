@@ -25,6 +25,9 @@ namespace NidzhatUP
         client_requestTableAdapter crta = new client_requestTableAdapter();
         request_statusTableAdapter rsta = new request_statusTableAdapter();
         request_historyTableAdapter rhta = new request_historyTableAdapter();
+        /// <summary>
+        /// Конструктор окна с получением данных из БД.
+        /// </summary>
         public ClientsReqPage()
         {
             InitializeComponent();
@@ -32,24 +35,37 @@ namespace NidzhatUP
             Status.ItemsSource = rsta.GetData();
             Status.DisplayMemberPath = "request_status";
         }
-
+        /// <summary>
+        /// Очистка текстового поля, отвечающего за текст запроса.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Clear_Click_Text(object sender, RoutedEventArgs e)
         {
             Text.Clear();
         }
-
+        /// <summary>
+        /// Очистка текстового поля, отвечающего за id клиента.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Clear_Click_Client(object sender, RoutedEventArgs e)
         {
             Client.Clear();
         }
-
+        /// <summary>
+        /// Изменение выделенного объекта в таблице на данные, указанные в текстовых полях.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Change_Click(object sender, RoutedEventArgs e)
         {
             if (Table.SelectedIndex != -1)
             {
                 try
                 {
-                    crta.UpdateQuery(Convert.ToInt32(Client.Text), Convert.ToInt32((Status.SelectedItem as DataRowView).Row[0]), Text.Text, Convert.ToInt32(Moderator.Text), Convert.ToInt32((Table.SelectedItem as DataRowView).Row[4]));
+                    crta.UpdateQuery(Convert.ToInt32(Client.Text), Convert.ToInt32((Status.SelectedItem as DataRowView).Row[0]), Text.Text, Convert.ToInt32(Moderator.Text),
+                        Convert.ToInt32((Table.SelectedItem as DataRowView).Row[4]));
                     Refresh();
                 }
                 catch (Exception)
@@ -58,7 +74,11 @@ namespace NidzhatUP
                 }
             }
         }
-
+        /// <summary>
+        /// Удаление из БД выделенного объекта таблицы.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -75,6 +95,11 @@ namespace NidzhatUP
                 throw;
             }
         }
+        /// <summary>
+        /// Добавление нового объекта в БД с данными, введенными в текстовых полях.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Add_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -94,12 +119,21 @@ namespace NidzhatUP
                 MessageBox.Show("Неверно введены данные! Данные должны быть другого типа.");
             }
         }
-
+        /// <summary>
+        /// Очистка текстового поля, отвечающего за id модератора.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Clear_Click_Moderator(object sender, RoutedEventArgs e)
         {
             Moderator.Clear();
         }
-
+        /// <summary>
+        /// Событие, вызывающееся при выделении какого-либо объекта таблицы(DataGrid).
+        /// Заполняет текстовые поля и выпадающий список в соответствии с данными выделенного объекта
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Table_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (Table.SelectedIndex != -1)
@@ -125,6 +159,9 @@ namespace NidzhatUP
                 }
             }
         }
+        /// <summary>
+        /// Данный метод обновляет содержание таблицы, подгружая новые данные из БД.
+        /// </summary>
         private void Refresh()
         {
             Table.ItemsSource = null;

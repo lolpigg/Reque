@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\NidzhatUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\moderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:moderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\clientsreqpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:clientsreqpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|d:\\vs\\nidzhatup\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|d:\\vs\\nidzhatup\\moderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:moderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\clientsreqpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:clientsreqpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\analyticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:analyticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\nidzhatdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:nidzhatdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|D:\\vs\\NidzhatUP\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08726635-6501-4BDC-B1F8-57A26AED50C0}|NidzhatUP.csproj|solutionrelative:clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "RegistrationWindow.xaml",
+              "ToolTip": "D:\\vs\\NidzhatUP\\RegistrationWindow.xaml",
+              "RelativeToolTip": "RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T11:14:06.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModerWindow.xaml",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\ModerWindow.xaml",
+              "RelativeDocumentMoniker": "ModerWindow.xaml",
+              "ToolTip": "D:\\vs\\NidzhatUP\\ModerWindow.xaml",
+              "RelativeToolTip": "ModerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T12:58:45.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\ModerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ModerWindow.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\ModerWindow.xaml.cs",
+              "RelativeToolTip": "ModerWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA6wDoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:02:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationWindow.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "RegistrationWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:45:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthorizationWindow.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "AuthorizationWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAywEsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-19T17:55:21.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsReqPage.xaml",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\ClientsReqPage.xaml",
+              "RelativeDocumentMoniker": "ClientsReqPage.xaml",
+              "ToolTip": "D:\\vs\\NidzhatUP\\ClientsReqPage.xaml",
+              "RelativeToolTip": "ClientsReqPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T15:27:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-20T07:58:29.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "AdminWindow.xaml",
+              "ToolTip": "D:\\vs\\NidzhatUP\\AdminWindow.xaml",
+              "RelativeToolTip": "AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T10:25:52.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientsReqPage.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\ClientsReqPage.xaml.cs",
+              "RelativeDocumentMoniker": "ClientsReqPage.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\ClientsReqPage.xaml.cs",
+              "RelativeToolTip": "ClientsReqPage.xaml.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAswKsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-18T14:14:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoryPage.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\HistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "HistoryPage.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\HistoryPage.xaml.cs",
+              "RelativeToolTip": "HistoryPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-19T17:53:01.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\ClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientWindow.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\ClientWindow.xaml.cs",
+              "RelativeToolTip": "ClientWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-18T15:02:18.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalyticsPage.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\AnalyticsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AnalyticsPage.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\AnalyticsPage.xaml.cs",
+              "RelativeToolTip": "AnalyticsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-20T07:45:43.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdminWindow.xaml.cs",
+              "ToolTip": "D:\\vs\\NidzhatUP\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AdminWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wEEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-19T17:45:39.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\vs\\NidzhatUP\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T09:11:31.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientWindow.xaml",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\ClientWindow.xaml",
+              "RelativeDocumentMoniker": "ClientWindow.xaml",
+              "ToolTip": "D:\\vs\\NidzhatUP\\ClientWindow.xaml",
+              "RelativeToolTip": "ClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T15:07:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nidzhatDataSet.xsd",
+              "DocumentMoniker": "D:\\vs\\NidzhatUP\\nidzhatDataSet.xsd",
+              "RelativeDocumentMoniker": "nidzhatDataSet.xsd",
+              "ToolTip": "D:\\vs\\NidzhatUP\\nidzhatDataSet.xsd",
+              "RelativeToolTip": "nidzhatDataSet.xsd",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG7SURBVDhP1ZNPKINhHMe/4x2z2diGmM3/JS7\u002BRA5OygUHcrWclIOTi7O74uAiZ6WoNaXmJn9KkaTYzL\u002BwTdh4976217b3tdfzPtYuo8TJp56ep6ff8/19\u002B/V98FdU6T2LEMvJTo8fB4Fn3PNxxEQROrUaFoMGnVYzhpttKDUWqb4VcCxtys3lReiuKoHVoEU\u002Bk4uE9I4AL2D3NgTvI48lR4\u002BKUYofSLf5PR82fPe4ZmPg4iLWfQF4Qhwib0k4WmqIAIPEewpJKYW4mMIdJ9BG1EHTjFPuspkwRGw1GAuhzWMgJCVcslG4PAHs3DwRFwUwaPJQptOgo9KE5eNbbE8MfDrwhnk0luhpZ548lFIyBGI38iaCJQ6uiKutsV6lNIMioEAFFForjFjcv8D1SywzsHqTDr0NFVg7C6arsskIjLbV0vUV05sn6VM2Oen91/wrARX4hAjvE4fFg0vUkQEr/FhgZHUXU\u002B4jrJzewUaSOdvfTu9pkNrnXHK1UUeDZDfroSWxVXJwHn6Fy\u002BuHnxVwODn4Zezp5XPkVV4gGXCfB0mUo4iKEgrVDOqJWJ/dgvFOO8zF\u002Bm//zR8APgCHtq8I5EQlbwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-17T16:50:40.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

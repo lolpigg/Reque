@@ -20,6 +20,10 @@ namespace NidzhatUP
     public partial class ClientWindow : Window
     {
         int id;
+        /// <summary>
+        /// Конструктор окна клиента, устанавливающий отображение контента и удаляющий из него кнопки удаления и изменения.
+        /// </summary>
+        /// <param name="client_id">Собственный id, полученный из окна авторизации</param>
         public ClientWindow(int client_id)
         {
             InitializeComponent();
@@ -29,7 +33,11 @@ namespace NidzhatUP
             Frame.Content = clientsReqPage;
             id = client_id;
         }
-
+        /// <summary>
+        /// Меняет отображение на страницу запросов и удаляет из нее кнопки удаления и изменения.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Client_Click(object sender, RoutedEventArgs e)
         {
             ClientsReqPage clientsReqPage = new ClientsReqPage();
@@ -37,7 +45,11 @@ namespace NidzhatUP
             clientsReqPage.Delete.Visibility = Visibility.Collapsed;
             Frame.Content = clientsReqPage;
         }
-
+        /// <summary>
+        /// Меняет отображение на страницу запросов и удаляет из нее кнопки удаления и изменения.
+        /// </summary>        
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void History_Click(object sender, RoutedEventArgs e)
         {
             HistoryPage historyPage = new HistoryPage(id);

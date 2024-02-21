@@ -10,7 +10,6 @@ D:\vs\NidzhatUP\bin\Debug\MaterialDesignThemes.Wpf.xml
 D:\vs\NidzhatUP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
 D:\vs\NidzhatUP\bin\Debug\Microsoft.Xaml.Behaviors.xml
 D:\vs\NidzhatUP\obj\Debug\NidzhatUP.csproj.AssemblyReference.cache
-D:\vs\NidzhatUP\obj\Debug\NidzhatUP.csproj.SuggestedBindingRedirects.cache
 D:\vs\NidzhatUP\obj\Debug\AdminWindow.g.cs
 D:\vs\NidzhatUP\obj\Debug\AnalyticsPage.g.cs
 D:\vs\NidzhatUP\obj\Debug\AuthorizationWindow.g.cs
@@ -37,6 +36,6 @@ D:\vs\NidzhatUP\obj\Debug\NidzhatUP.g.resources
 D:\vs\NidzhatUP\obj\Debug\NidzhatUP.Properties.Resources.resources
 D:\vs\NidzhatUP\obj\Debug\NidzhatUP.csproj.GenerateResource.cache
 D:\vs\NidzhatUP\obj\Debug\NidzhatUP.csproj.CoreCompileInputs.cache
-D:\vs\NidzhatUP\obj\Debug\NidzhatUP.csproj.CopyComplete
 D:\vs\NidzhatUP\obj\Debug\NidzhatUP.exe
 D:\vs\NidzhatUP\obj\Debug\NidzhatUP.pdb
+D:\vs\NidzhatUP\obj\Debug\NidzhatUP.csproj.Up2Date

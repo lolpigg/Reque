@@ -22,11 +22,19 @@ namespace NidzhatUP
     public partial class AuthorizationWindow : Window
     {
         usersTableAdapter usersTableAdapter = new usersTableAdapter();
+        /// <summary>
+        /// Обычный конструктор окна.
+        /// </summary>
         public AuthorizationWindow()
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Выполнение авторизации по сопоставлению введенных данных и данных из БД.
+        /// В зависимости от роли открывает то или иное окно.
+        /// </summary>
+        /// <param name="sender">Объект, откуда вызывался метод</param>
+        /// <param name="e">Событие, которое вызвало метод</param>
         private void Auth_Click(object sender, RoutedEventArgs e)
         {
             string login = Login.Text;

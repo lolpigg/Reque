@@ -26,17 +26,17 @@
             <RowDefinition Height="0.5*"></RowDefinition>
         </Grid.RowDefinitions>
         <DataGrid x:Name="Table" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="1" SelectionChanged="Table_SelectionChanged"></DataGrid>
-        <TextBlock Grid.Column="1" Grid.Row="2" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Текст запроса" Margin="7"></TextBlock>
-        <TextBlock Grid.Column="1" Grid.Row="4" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Клиент" Margin="7"></TextBlock>
+        <TextBlock x:Name="TextText" Grid.Column="1" Grid.Row="2" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Текст запроса" Margin="7"></TextBlock>
+        <TextBlock x:Name="ClientText" Grid.Column="1" Grid.Row="4" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Клиент" Margin="7"></TextBlock>
         <TextBlock Grid.Column="2" Grid.Row="2" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Статус" Margin="7"></TextBlock>
-        <TextBlock Grid.Column="2" Grid.Row="4" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Модератор" Margin="7"></TextBlock>
+        <TextBlock x:Name="ModeratorText" Grid.Column="2" Grid.Row="4" FontWeight="Bold" VerticalAlignment="Bottom" Foreground="White" Text="Модератор" Margin="7"></TextBlock>
         <Grid Grid.Column="1" Grid.Row="3" Margin="7">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="5*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <TextBox x:Name="Text" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Background="#3D000000" BorderBrush="#7A000000"></TextBox>
-            <Button Grid.Column="1" Background="#00673AB7" BorderBrush="#00673AB7" Height="NaN" Width="NaN" Click="Clear_Click_Text">
+            <Button x:Name="TextClear" Grid.Column="1" Background="#00673AB7" BorderBrush="#00673AB7" Height="NaN" Width="NaN" Click="Clear_Click_Text">
                 <Image Source="Images\pngwing.com.png"></Image>
             </Button>
         </Grid>
@@ -46,7 +46,7 @@
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <TextBox x:Name="Moderator" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Background="#3D000000" BorderBrush="#7A000000"></TextBox>
-            <Button Grid.Column="1" Background="#00673AB7" BorderBrush="#00673AB7" Height="NaN" Width="NaN" Click="Clear_Click_Moderator" Cursor="Hand">
+            <Button x:Name="ModeratorClear" Grid.Column="1" Background="#00673AB7" BorderBrush="#00673AB7" Height="NaN" Width="NaN" Click="Clear_Click_Moderator" Cursor="Hand">
                 <Image Source="Images\pngwing.com.png"></Image>
             </Button>
         </Grid>
@@ -56,7 +56,7 @@
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <TextBox x:Name="Client" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Background="#3D000000" BorderBrush="#7A000000"></TextBox>
-            <Button Grid.Column="1" Background="#00673AB7" BorderBrush="#00673AB7" Height="NaN" Width="NaN" Click="Clear_Click_Client">
+            <Button x:Name="ClientClear" Grid.Column="1" Background="#00673AB7" BorderBrush="#00673AB7" Height="NaN" Width="NaN" Click="Clear_Click_Client">
                 <Image Source="Images\pngwing.com.png"></Image>
             </Button>
         </Grid>
